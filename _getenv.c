@@ -1,9 +1,9 @@
 #include "shell.h"
 /**
- * _getenv - function to get env of a global variable
+ * _getenv- function to get env of a global variable
  * @gb_variable : var to get its env
  *
- * Return : pointer to env or NULL if fails
+ * Return: pointer to env or NULL if fails
 */
 char *_getenv(char *gb_variable)
 {

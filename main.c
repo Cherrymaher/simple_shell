@@ -64,5 +64,5 @@ free(argv[j]);
 free(argv);
 free(inputptr_cpy);
 }
-return 0;
+return (0);
 }
