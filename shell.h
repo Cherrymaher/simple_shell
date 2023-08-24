@@ -18,6 +18,8 @@ extern char **environ;
 
 int exec_command(char **av);
 char *_which(char *cmd);
+char *_getenv(char *gb_variable);
+
 
 /* string functios */
 
