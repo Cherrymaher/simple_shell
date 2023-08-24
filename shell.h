@@ -29,5 +29,4 @@ char *_strcat(char *dest, char *source);
 char *_strcpy(char *d, char *s);
 int _strcmp(char *string1, char *string2);
 
-
 #endif
